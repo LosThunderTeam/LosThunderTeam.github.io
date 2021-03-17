@@ -39,7 +39,6 @@ body{
 	margin-left: 40px;
 }
 
-
 body{
 	font-family: 'Lato', sans-serif;
 }
@@ -156,17 +155,6 @@ nav{
 	color: red;
 }
 
-/*#icon_images{
-	width: 100%;
-	font-size: 60px;
-	color: red;
-	margin-bottom:20px;
-}*/
-
-/*section{
-	width: 100%;
-	height: 300px;
-}*/
 
 .ff{
 	margin-top: 30px;
@@ -186,23 +174,20 @@ nav{
 }
 
 .first_feature{
-	margin-top: 15px;
+	margin: 15px 0px 0px 20px;
 	width: 100%;
-	margin-left:20px;
-	/*box-shadow: 10px 5px 2px rgb(20 30 0.3);*/
+	
 	
 }
 
 .second_feature{
 	width:100%;
-	margin-top: 25px;
-	margin-left:10px;
+	margin: 25px 0px 0px 10px;
 }
 
 .third_feature{
 	width:100%;
-	margin-top: 25px;
-	margin-left:10px;
+	margin: 25px 0px 0px 10px;
 }
 #moving{
 	margin-top: 8px;
@@ -217,9 +202,8 @@ nav{
 }
 
 #explaination{
-	margin-left: 20px;
 	width: 95%;
-	margin-top: 10px;
+	margin: 10px 0px 0px 20px;
 	line-height: 1.6;
 	font-size: 17px;
 	font-family: Georgia;
@@ -245,7 +229,7 @@ nav{
 
 .products{
 	display:flex;
-	margin-top: 20px;
+	margin: 20px 0px 0px 20px;
 	width: 100%;
 	height: 200px;
 }
@@ -253,19 +237,19 @@ nav{
 #product1{
 	width:50%;
 	height: 100%;
-	/*border-style:groove;*/
+	
 }
 
 #product2{
 	width:50%;
 	height: 100%;
-	/*border-style:groove;*/
+	
 }
 
 #product3{
 	width:50%;
 	height:100%;
-	/*border-style:groove;*/
+	
 	
 }
 
@@ -286,44 +270,46 @@ img{
 
 .container2{
 	width: 100%;
-	margin-top: 70px;
+	margin-top: 100px;
 }
 
-#v1{
-	width: 33%;
-	height:100%;
-	margin-left: 15px;
+#meet{
+	margin: 80px 0px 0px 0px;
+	font-size: 34px;
+	color: Red;
+	font-family: Georgia sans-serif;
+	width:100%;
+	text-align: center;
 }
 
-#v2{
-	width : 33%;
-	height:100%;
-	margin-left:65px;
-}
 
-#v3{
-	width : 33%;
-	height:100%;
-	margin-left:65px;
+.teamIcons{
+	margin: 30px 0px 0px 40px;
+	display: flex;
+	justify-content: space-between;
+	width: 95%;
+	height: 100px;
+	box-shadow: 10px 5px 2px rgb(20 30 0.3);
+	border-style: groove;
+	
 }
-ol{
-	margin-left: 10px;
-	margin-top: 5px;
+.teamIcons2{
+	margin: 20px 0px 0px 40px;
+	display: flex;
+	justify-content: space-between;
+	width: 95%;
+	height: 100px;
+	box-shadow: 10px 5px 2px rgb(20 30 0.3);
+	border-style: groove;
 	
 }
 
-.devblog{
-	display:flex;
-	margin-top: 30px;
-	width: 100%;
-	height: 300px;
-	margin-left: 70px;
-	
-	/*border-style: groove;*/
-	
+#names{
+	margin-top: 10px;
 }
+#team{
+	font-size: 40px;
+	color:green;
+	width:100%;
 
-
-#blog{
-	/*margin-left: 40px;*/
 }
