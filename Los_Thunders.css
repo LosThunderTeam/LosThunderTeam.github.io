@@ -215,7 +215,12 @@ nav{
 	justify-content: center;
 }
 
-
+.instruction{
+	text-align: center;
+	margin-top: 10px;
+	font-family: Georgia;
+	font-size: 17px;
+	width:100%;
 
 #hp{
 	text-align: center;
@@ -227,8 +232,10 @@ nav{
 
 #instructions{
 	text-align: center;
-	margin: 10px 0px 0px 20px;
-	line-height: 1.6;
+	margin-top: 10px;
+	font-family: Georgia;
+	font-size: 17px;
+	width:100%;
 }
 
 #video{
