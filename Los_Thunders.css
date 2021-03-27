@@ -215,28 +215,7 @@ nav{
 	justify-content: center;
 }
 
-.instruction{
-	text-align: center;
-	margin-top: 20px;
-	font-family: Georgia;
-	font-size: 17px;
-	width:100%;
 
-#hp{
-	text-align: center;
-	margin-top: 30px;
-	font-family: Georgia;
-	font-size: 34px;
-	width:100%;
-}
-
-#instructions{
-	text-align: center;
-	margin-top: 20px;
-	font-family: Georgia;
-	font-size: 17px;
-	width:100%;
-}
 
 #video{
 	margin-top:20px;
