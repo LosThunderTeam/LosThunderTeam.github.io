@@ -216,6 +216,27 @@ nav{
 	justify-content: center;
 }
 
+.instruction{
+	margin-top: 30px;
+	font-size: 34px;
+	font-family: Georgia;
+	width:100%;
+	text-align: center;
+}
+
+#hp{
+	text-align: center;
+	margin-top: 10px;
+	font-family: Georgia;
+	font-size: 34px;
+	width:100%;
+}
+
+#instructions{
+	display: flex;
+	width: 100%;
+}
+
 #video{
 	margin-top:20px;
 	width:35%;
