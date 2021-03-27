@@ -217,14 +217,14 @@ nav{
 
 .instruction{
 	text-align: center;
-	margin-top: 10px;
+	margin-top: 15px;
 	font-family: Georgia;
-	font-size: 17px;
+	font-size: 20px;
 	width:100%;
 
 #hp{
 	text-align: center;
-	margin-top: 10px;
+	margin-top: 30px;
 	font-family: Georgia;
 	font-size: 34px;
 	width:100%;
@@ -232,9 +232,9 @@ nav{
 
 #instructions{
 	text-align: center;
-	margin-top: 10px;
+	margin-top: 15px;
 	font-family: Georgia;
-	font-size: 17px;
+	font-size: 20px;
 	width:100%;
 }
 
