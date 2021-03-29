@@ -210,12 +210,14 @@ nav{
 }
 
 .inst{
+	text-align: center;
 	display: flex;
 	flex-direction:column;
 	justify-content:space-between;
 	line-height:1.5em;
 	margin-top:10px;
-	font-size:18px;
+	font-size:17px;
+	font-family: Georgia;
 } 
 
 #explaination{
