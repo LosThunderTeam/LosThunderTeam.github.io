@@ -196,7 +196,8 @@ p{
 	max-height:200px;
 	display:flex;
 	margin-left:20px;
-	border:10px groove red;
+	border-style:groove;
+	border-color:red;
 }
 
 .btn {
