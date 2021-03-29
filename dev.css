@@ -9,7 +9,7 @@
 }
 
 body {
-	background-color: #F0F8FF;
+	background-color: deepskyblue;
 }
 
 h1{
@@ -32,7 +32,7 @@ h1{
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	background-color: #DAE0E2;
+	background-color: blue;
 	width:100%;
 	font-family: Sans-serif;
 	font-size:15px;
