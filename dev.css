@@ -195,7 +195,6 @@ p{
 	max-width: 95%;
 	max-height:200px;
 	display:flex;
-	justify-content:center;
 }
 
 .btn {
@@ -209,5 +208,5 @@ p{
 
 	/* Darker background on mouse-over */
 .btn:hover {
-		background-color: orange;
+		background-color: yellow;
 	}
