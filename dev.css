@@ -190,4 +190,10 @@ p{
 	height:250px;
 	margin-left:40px;
 }
-
+#footer {
+	max-width: 100%;
+	background-color: black;
+	height: 100px;
+	color: white;
+	text-align: center;
+}
