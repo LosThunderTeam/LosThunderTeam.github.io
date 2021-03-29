@@ -190,29 +190,46 @@ p{
 	margin-left:40px;
 }
 
-#download{
+#download {
 	max-width: 95%;
-	max-height:200px;
-	margin-left:20px;
-	border-style:groove;
-	border-color:red;
+	max-height: 200px;
+	margin-left: 20px;
+	text-align: center;
+	/*border-style:groove;
+	border-color:red;*/
 }
 
 #dnload {
-	text-align:center;
-
+	text-align: center;
+	font-size: 50px;
 }
+
 .btn {
 	background-color: orange;
 	margin-left: 70px;
 	border: none;
 	color: white;
-	padding: 12px 30px;
+	padding: 20px 40px;
 	cursor: pointer;
 	font-size: 20px;
 }
 
 	/* Darker background on mouse-over */
-.btn:hover {
+	.btn:hover {
 		background-color: yellow;
 	}
+
+#hwDownload {
+	margin: 10px 0px 0px 20px;
+	font-size: 20px;
+}
+
+#next {
+	color: red;
+	font-size: 25px;
+	margin: 5px 0px 0px 10px;
+}
+
+#click {
+	color: red;
+}
