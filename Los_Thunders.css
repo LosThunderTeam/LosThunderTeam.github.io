@@ -209,13 +209,13 @@ nav{
 	width:100%;
 }
 
-#inst{
-	text-align:center
-	width: 95%;
-	margin: 10px 0px 0px 20px;
-	line-height: 1.6;
-	font-size: 17px;
-	font-family: Georgia;
+.inst{
+	display: flex;
+	flex-direction:column;
+	justify-content:space-between;
+	line-height:1.5em;
+	margin-top:10px;
+	font-size:18px;
 } 
 
 #explaination{
