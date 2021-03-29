@@ -190,3 +190,8 @@ p{
 	height:250px;
 	margin-left:40px;
 }
+
+#download{
+	max-width: 95%;
+	max-height:200px;
+}
