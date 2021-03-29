@@ -217,6 +217,7 @@ a {
 	padding: 20px 40px;
 	cursor: pointer;
 	font-size: 20px;
+	text-decoration: none;
 }
 
 	/* Darker background on mouse-over */
