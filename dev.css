@@ -194,15 +194,18 @@ p{
 #download{
 	max-width: 95%;
 	max-height:200px;
-	display:flex;
 	margin-left:20px;
 	border-style:groove;
 	border-color:red;
 }
 
+#dnload {
+	text-align:center;
+
+}
 .btn {
 	background-color: orange;
-	margin-left:70px;
+	margin-left: 70px;
 	border: none;
 	color: white;
 	padding: 12px 30px;
