@@ -201,6 +201,23 @@ nav{
 	width:100%;
 }
 
+#htp{
+	text-align: center;
+	margin-top: 10px;
+	font-family: Georgia;
+	font-size: 34px;
+	width:100%;
+}
+
+
+#inst{
+	width: 95%;
+	margin: 10px 0px 0px 20px;
+	line-height: 1.6;
+	font-size: 17px;
+	font-family: Georgia;
+} 
+
 #explaination{
 	width: 95%;
 	margin: 10px 0px 0px 20px;
