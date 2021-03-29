@@ -194,7 +194,8 @@ p{
 #download{
 	max-width: 95%;
 	max-height:200px;
-	align-items:center;
+	display:flex;
+	justify-content:center;
 }
 
 .btn {
