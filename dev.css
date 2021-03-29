@@ -31,11 +31,12 @@ h1{
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	background-color: #1a8cff;
+	background-color: #80bfff;
 	width: 100%;
 	font-family: Sans-serif;
 	font-size: 15px;
 }
+
 
 
 #header-img{
@@ -202,6 +203,10 @@ p{
 #dnload {
 	text-align: center;
 	font-size: 50px;
+}
+
+a {
+	text-decoration: none;
 }
 
 .btn {
