@@ -31,11 +31,10 @@ h1{
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	background-color: #e6f9ff;
+	background-color: #3333ff;
 	width: 100%;
 	font-family: Sans-serif;
 	font-size: 15px;
-	border-style: groove;
 }
 
 #header-img{
