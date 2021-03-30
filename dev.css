@@ -190,6 +190,23 @@ p{
 	height:250px;
 	margin-left:40px;
 }
+
+#box {
+	color: purple;
+}
+
+#source {
+	text-align: center;
+	width: 50%;
+	max-height: 50px;
+	height: 50px;
+	border-style: groove;
+	border-color: red;
+	margin-left: 300px;
+	padding: 20px;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
 #footer {
 	max-width: 100%;
 	background-color: black;
