@@ -7,7 +7,7 @@
 }
 
 body {
-	background-color: #80d2ff;
+	background-color: #ccedff;
 }
 
 #page_wrapper{
@@ -27,7 +27,7 @@ body {
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	background-color: #80d2ff;
+	background-color: #ccedff;
 	width: 100%;
 	font-family: Sans-serif;
 	font-size: 15px;
