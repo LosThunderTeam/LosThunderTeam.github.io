@@ -125,6 +125,21 @@ nav{
 	border-radius: 5px;
 }
 
+
+
+
+.nav-link{
+	width: 0 auto;
+	margin: 0 auto;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+.nav-link:hover{
+	border-radius:10px;
+}
+
+
+
 #sign_up_form input[type=submit] {
   max-width: 150px;
   width: 100%;
